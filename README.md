@@ -1,6 +1,6 @@
 # Daniyal Pharma – WordPress Theme
 
-> A clean, minimalist, professional WordPress theme built for **Daniyal Pharma Private Limited** — a B2B pharmaceutical company based in New Delhi, India. Designed and developed by [Fardeen Ahmad](https://github.com/fardeenahmad) at **Weblix Studios**.
+> A clean, minimalist, professional WordPress theme built for **Daniyal Pharma Private Limited** — a B2B pharmaceutical company based in New Delhi, India. Designed and developed by [Fardeen Ahmad](https://github.com/iammfardeen) at **Weblix Studios**.
 
 ---
 
